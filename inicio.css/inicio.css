@@ -7,6 +7,6 @@ body{
 .titulo{
 color:coral;
 }
-.logo{
-max-width: -10%;
+img{
+    width: 30px;
 }
