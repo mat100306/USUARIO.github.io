@@ -8,6 +8,5 @@ body{
 color:coral;
 }
 .logo{
-width: 30px;
-;
+max-width: -10%;
 }
