@@ -4,10 +4,12 @@ body{
 .titulo{
     color: chartreuse;
     text-align: center;
-    font-size: 50%;
+    font-size: 300%;
 
 }
-<h3>{
+.<h3>{
     color: red;
     text-align: left;
     font-size: 100%
+
+}
