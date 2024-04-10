@@ -9,5 +9,6 @@ color:coral;
 }
 .logo img{
     left: 30%;
+    position: relative;
 
 }
