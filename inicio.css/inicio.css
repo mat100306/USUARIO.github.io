@@ -1,6 +1,7 @@
 .titulo{
     left: 30%;
     color: coral;
+    position: relative;
 }
 body{
     background-color:lightblue;
