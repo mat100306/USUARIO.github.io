@@ -15,5 +15,5 @@ body{
 }
 .categoria{
     position: absolute;
-    height: -100%;
+    height: auto;
 }
