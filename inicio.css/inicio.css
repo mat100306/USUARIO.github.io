@@ -10,5 +10,6 @@ body{
 .logo img{
     left: 65%;
     position: relative;
+    height: auto;
 
 }
