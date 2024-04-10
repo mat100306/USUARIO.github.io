@@ -1,7 +1,7 @@
 .titulo{
     left: 12%;
     color: coral;
-    position: relative;
+    position: absolute;
 }
 body{
     background-color:lightblue;
@@ -9,7 +9,7 @@ body{
 
 .logo img{
     left: 65%;
-    position: relative;
+    position: absolute;
     height: auto;
 
 }
