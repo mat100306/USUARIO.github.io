@@ -1,9 +1,9 @@
 .titulo{
-    left: 15%;
+    left: 30%;
     position: absolute;
 }
 body{
-    background-color:lightblue;
+    background-color:rgb(253, 254, 255);
 }
 
 .logo img{
